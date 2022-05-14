@@ -75,8 +75,11 @@ infantry_units = [
 ];
 
 light_vehicles = [
+    ["UK3CB_B_M1030_USMC_WDL",50,0,25],                                 // Motorbike
     ["B_Quadbike_01_F",50,0,25],                                        // Quad Bike
     ["rhsusf_mrzr4_d",75,0,25],                                         // MRZR 4
+    ["CUP_I_4WD_LMG_ION",80,60,60],                                     // Armed Jeep
+    ["UK3CB_B_MTVR_Closed_WDL",100,0,50],                               // Transport MTVR
     ["rhsusf_m1025_d",100,0,50],                                        // M1025A2
     ["rhsusf_m1025_d_m2",100,40,50],                                    // M1025A2 (M2)
     ["rhsusf_m1025_d_Mk19",100,60,50],                                  // M1025A2 (Mk19)
@@ -90,6 +93,11 @@ light_vehicles = [
     ["rhsusf_M1238A1_socom_d",130,0,60],                                // M1238
     ["rhsusf_M1238A1_M2_socom_d",130,40,60],                            // M1238 (M2)
     ["rhsusf_M1238A1_Mk19_socom_d",130,60,60],                          // M1238 (Mk19)
+    ["UK3CB_C_SUV_Armoured_UK",130,0,60],
+    ["CUP_I_SUV_Armored_ION",130,100,60],
+    ["CUP_B_LR_Special_M2_GB_W",120,60,60],
+    ["rhsusf_CGRCAT1A2_M2_usmc_wd",150,150,75],
+    ["Proxybar_armourR_Wolfhound",150,80,100],
     ["rhsusf_M1232_usarmy_d",140,0,60],                                 // M1232
     ["rhsusf_M1232_M2_usarmy_d",140,40,60],                             // M1232 (M2)
     ["rhsusf_M1232_MK19_usarmy_d",140,60,60],                           // M1232 (Mk19)
@@ -119,6 +127,8 @@ heavy_vehicles = [
     ["RHS_M2A2_BUSKI",300,200,150],                                     // M2A2ODS (Busk I)
     ["RHS_M2A3_BUSKIII",300,250,175],                                   // M2A3 (Busk III)
     ["RHS_M6",300,250,175],                                             // M6A2
+    ["UK3CB_B_LAV25_US_WDL",300,250,175],                               // LAV25
+    ["CUP_B_FV510_GB_W_SLAT",275,200,200],                              // FV510
     ["rhsusf_m1a1aim_tuski_d",400,350,225],                             // M1A1SA (Tusk I)
     ["rhsusf_m1a2sep1tuskiid_usarmy",500,400,250],                      // M1A2SEPv1 (Tusk II)
     ["rhsusf_m109d_usarmy",600,1250,300]                                // M109A6
@@ -136,6 +146,10 @@ air_vehicles = [
     ["RHS_UH60M2_d",250,0,150],                                         // UH-60M (Unarmed)
     ["RHS_UH60M_d",250,80,150],                                         // UH-60M
     ["RHS_UH60M_MEV2_d",300,0,150],                                     // UH-60M MEV2
+    ["vtx_UH60M",250,150,150],                                          // UH-60M Blackhawk
+    ["vtx_MH60S_GAU21L",350,300,200],                                   // MH60S - Knighthawk - GAU
+    ["vtx_MH60M_DAP",650,650,400],                                      // MH-60M DAP
+    ["vtx_UH60M_MEDEVAC",400,0,200],                                    // MH-60M - MEDEVAC
     ["RHS_CH_47F_10",275,80,175],                                       // CH-47 Chinook (Armed)
     ["rhsusf_CH53E_USMC_D",300,0,175],                                  // CH-53E Super Stallion
     ["rhsusf_CH53E_USMC_GAU21_D",300,100,175],                          // CH-53E Super Stallion (GAU-21)
@@ -153,6 +167,7 @@ air_vehicles = [
     ["FIR_F15C",1250,1250,450],                                         // F-15C Eagle
     ["FIR_F15D",1250,1250,450],                                         // F-15D Eagle
     ["FIR_F15E",1250,1500,450],                                         // F-15E Strike Eagle
+    ["CUP_B_AV8B_DYN_USMC",1200,1500,600],                              // Harrier
     ["JS_JC_FA18E",1500,1750,450],                                      // F/A-18 E Super Hornet
     ["JS_JC_FA18F",1500,1750,450],                                      // F/A-18 F Super Hornet
     ["USAF_F22",1800,2000,500],                                         // F-22A Raptor

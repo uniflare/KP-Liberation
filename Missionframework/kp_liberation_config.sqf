@@ -51,7 +51,8 @@ KP_liberation_medical_vehicles = [
     "uns_ch47a_medevac",
     "uns_H13_medevac_CAV",
     "uns_M577_amb",
-    "uns_uh1D_med"
+    "uns_uh1D_med",
+    "vtx_UH60M_MEDEVAC"
 ];
 
 // Building classnames which also function as ACE medical facilities.
